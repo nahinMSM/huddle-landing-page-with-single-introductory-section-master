@@ -36,8 +36,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [URL da solução aqui](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-phhB7YerdT)
+- URL do site ativo: [URL do site ativo aqui](https://pagina-huddle.netlify.app/)
 
 ## Meu processo
 
