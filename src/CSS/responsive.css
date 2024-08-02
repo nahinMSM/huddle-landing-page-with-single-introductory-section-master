@@ -1,0 +1,68 @@
+@media (max-width: 1300px){
+  body {
+    height: 100vh;
+    background-image: url('../images/bg-mobile.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  main {
+    height: 70%;
+  }
+   
+  .logo {
+    padding: 35px;
+  }
+
+  .logo img {
+    width: 150px;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .image-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .image-container img {
+    width: 80%;
+  }
+
+  .text-container {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: 27px;
+    width: 75%;
+    line-height: 40px;
+  }
+  
+  p {
+    width: 75%;
+    text-align: center;
+  }
+
+  .register {
+    width: 55%;
+  }
+
+  .icon-redes {
+    margin-top: 65px;
+    width: 100vw;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .icon-redes a img {
+    width: 35px;
+    height: 35px;
+  }
+}
