@@ -1,6 +1,3 @@
-Claro! Aqui está o README no formato correto:
-
----
 
 # Huddle Landing Page com Seção Introdutória Única
 
